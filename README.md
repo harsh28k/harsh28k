@@ -1,4 +1,4 @@
-![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGQkq4nkCHAWpYbgaM490HI3XbyC0SxpMhQxir311E9v97_PCe5QbiiR2UD-Gy99q0sYU&usqp=CAU)
+![logo](https://kinsta.com/wp-content/uploads/2023/02/github-pages.jpg)
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnNmcGpqc3A2NHgyN3p3bnJheG5hZmEwNjhlc3FycGFuMWp0aWlhbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/pOEbLRT4SwD35IELiQ/giphy.gif"
